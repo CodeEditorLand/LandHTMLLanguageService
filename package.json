@@ -16,13 +16,13 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
-    "@types/node": "22.x",
-    "@typescript-eslint/eslint-plugin": "^8.33.1",
-    "@typescript-eslint/parser": "^8.33.1",
+    "@types/node": "24.x",
+    "@typescript-eslint/eslint-plugin": "^8.34.0",
+    "@typescript-eslint/parser": "^8.34.0",
     "@vscode/web-custom-data": "^0.6.0",
     "eslint": "^9.28.0",
     "js-beautify": "^1.15.4",
-    "mocha": "^11.5.0",
+    "mocha": "^11.6.0",
     "rimraf": "^6.0.1",
     "typescript": "5.8.3"
   },
